@@ -27,8 +27,8 @@
 <a href="https://linkedin.com/in/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
 <a href="https://fb.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
-<a href="https://instagram.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
+<a href="https://instagram.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"></a>
+<a href="https://www.youtube.com/c/https://wa.me/+27635722080?text=hi%20%20" target="blank"></a>
 <a href="https://discord.gg/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
 </p>
 
