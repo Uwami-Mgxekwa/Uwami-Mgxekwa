@@ -1,40 +1,176 @@
-<h1 align="center">Hi 👋, I'm Uwami Mgxekwa</h1>
-<h3 align="center">Java Developer specializing in Swing UI, with experience in C++, Python, SQL, and web development fundamentals.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Uwami+Mgxekwa;Java+Developer;UI+Specialist;Problem+Solver" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uwami-mgxekwa&label=Profile%20views&color=0e75b6&style=flat" alt="uwami-mgxekwa" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uwami-mgxekwa" alt="uwami-mgxekwa" /></a> </p>
+<h3 align="center">🚀 Java Developer | Swing UI Specialist | Full-Stack Enthusiast</h3>
+<h4 align="center">Crafting elegant solutions with Java, C++, Python, SQL & Web Technologies</h4>
 
-- 🔭 I’m currently working on [Legacy Banking System](https://wa.me/+27635722080?text=hi%20%20)
-
-- 🌱 I’m currently learning **React and Vite**
-
-- 👯 I’m looking to collaborate on [The Legacy Banking Appliaction](https://wa.me/+27635722080?text=hi%20%20)
-
-- 👨‍💻 All of my projects are available at [https://wa.me/+27635722080?text=hi%20%20](https://wa.me/+27635722080?text=hi%20%20)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **uwamimcdondald@gmail.com**
-
-- 📄 Know about my experiences [https://wa.me/+27635722080?text=hi%20%20](https://wa.me/+27635722080?text=hi%20%20)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/uwami-mgxekwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uwami-mgxekwa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
-<a href="https://fb.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
-<a href="https://instagram.com/https://wa.me/+27635722080?text=hi%20%20" target="blank"></a>
-<a href="https://www.youtube.com/c/https://wa.me/+27635722080?text=hi%20%20" target="blank"></a>
-<a href="https://discord.gg/https://wa.me/+27635722080?text=hi%20%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://wa.me/+27635722080?text=hi%20%20" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uwami-mgxekwa&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/uwami-mgxekwa?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwami-mgxekwa&show_icons=true&locale=en&layout=compact" alt="uwami-mgxekwa" /></p>
+## 🎯 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uwami-mgxekwa&show_icons=true&locale=en" alt="uwami-mgxekwa" /></p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const uwami = {
+    pronouns: "He/Him",
+    code: ["Java", "C++", "Python", "JavaScript", "SQL"],
+    technologies: {
+        frontEnd: {
+            java: ["Swing UI"],
+            web: ["HTML", "CSS", "JavaScript"]
+        },
+        backEnd: ["Java", "Spring", "Node.js"],
+        databases: ["MySQL"],
+        tools: ["Postman", "Git", "VS Code"]
+    },
+    currentFocus: "React & Vite",
+    funFact: "I think I am funny 😄"
+};
+```
+
+<br clear="right"/>
+
+## 🔥 Current Projects
+
+<div align="center">
+  <a href="http://wa.me/27635722080?text=hi">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+    <br/>
+    <b>🏦 Legacy Banking System</b>
+  </a>
+  <br/>
+  <sub>Building modern banking solutions with legacy system integration</sub>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🎓 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,cs&theme=dark" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postman,git,vscode,androidstudio&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uwami-mgxekwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwami-mgxekwa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwami-mgxekwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uwami-mgxekwa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+  <a href="http://wa.me/27635722080">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/uwami-mgxekwa-bb8235283">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:uwamimdonald@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://dev.to/uwami-mgxekwa">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 💬 Ask Me About
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Development;Swing+UI+Design;Database+Management;Backend+Development;Problem+Solving;Code+Optimization" alt="Ask me about" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/uwami-mgxekwa/uwami-mgxekwa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uwami-mgxekwa&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+build+something+amazing+together!+%F0%9F%92%BB;%F0%9F%9A%80+Happy+Coding!+%F0%9F%9A%80" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uwami-mgxekwa&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
+  <br/>
+  <sub>Made with ❤️ by Uwami Mgxekwa</sub>
+</div>
