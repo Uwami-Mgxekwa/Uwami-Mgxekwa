@@ -139,13 +139,16 @@ const uwami = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## 🐍 Contribution Graph
+## 🎯 My Coding Journey
 
 <div align="center">
-  <img src="https://github.com/uwami-mgxekwa/uwami-mgxekwa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."**
+  
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
