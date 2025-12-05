@@ -172,6 +172,8 @@ const uwami = {
 
 ---
 
+[![committers.top badge](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uwami-mgxekwa&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
   <br/>
