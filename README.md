@@ -53,6 +53,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 </div>
 
@@ -74,21 +75,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Uwami-Mgxekwa&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/Uwami-Mgxekwa)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-
----
-
-## 📈 Activity Graph
 
 <div align="center">
   
