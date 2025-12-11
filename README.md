@@ -63,15 +63,12 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uwami-Mgxekwa&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FFD700&icon_color=FFD700&text_color=ffffff&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uwami-Mgxekwa&theme=radical&hide_border=true&background=1a1b27&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Uwami-Mgxekwa&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uwami-Mgxekwa&theme=radical&hide_border=true&background=1a1b27&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="49%"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uwami-Mgxekwa&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Uwami-Mgxekwa&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=ffffff&layout=compact" alt="Coding Activity" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uwami-Mgxekwa&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=ffffff" alt="Top Languages" width="49%"/>
 </div>
 
 ---
@@ -79,7 +76,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uwami-Mgxekwa&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Uwami-Mgxekwa&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
