@@ -63,9 +63,9 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 <div align="center">
   
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Uwami-Mgxekwa&theme=radical&hide_border=true&background=1a1b27&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700)](https://github.com/Uwami-Mgxekwa)
 
-[![WakaTime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=Uwami-Mgxekwa&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=neon)](https://github.com/Uwami-Mgxekwa)
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa)
 
