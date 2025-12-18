@@ -12,7 +12,7 @@
 
 ---
 
-## ![About](https://img.shields.io/badge/About_Me-FFD700?style=flat&logoColor=black) About Me
+## 👨‍💻 About Me
 
 I'm a passionate Java Developer with a love for UI Design. I enjoy building robust applications with clean, efficient code while creating beautiful and intuitive user interfaces. Currently expanding my skills into modern web frameworks!
 
@@ -20,7 +20,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## ![Tech Stack](https://img.shields.io/badge/Tech_Stack_&_Skills-FFD700?style=flat&logoColor=black) Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-FFD700?style=flat&logoColor=black) GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -85,7 +85,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## ![Connect](https://img.shields.io/badge/Connect_With_Me-FFD700?style=flat&logoColor=black) Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   
@@ -95,7 +95,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwamimcdonald@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/3SDVFUTLNLO6P1)
 
-![Phone](https://img.shields.io/badge/Phone-+27_63_572_2080-FFD700?style=for-the-badge&logo=phone&logoColor=black)
+📱 **Phone:** +27 63 572 2080
 
 </div>
 
@@ -104,7 +104,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  ### ![Quote](https://img.shields.io/badge/Quote-FFD700?style=flat&logoColor=black) "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=FFD700&style=for-the-badge)
   
