@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
+## 👨‍💻 About Me
 
 I'm a passionate Java Developer with a love for UI Design. I enjoy building robust applications with clean, efficient code while creating beautiful and intuitive user interfaces. Currently expanding my skills into modern web frameworks!
 
@@ -20,7 +20,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -85,7 +85,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   
@@ -95,7 +95,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwamimcdonald@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/3SDVFUTLNLO6P1)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Phone" width="20" height="20" /> **Phone:** +27 63 572 2080
+📱 **Phone:** +27 63 572 2080
 
 </div>
 
@@ -104,7 +104,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" /> "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=FFD700&style=for-the-badge)
   
