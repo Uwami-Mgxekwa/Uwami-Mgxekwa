@@ -59,11 +59,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uwami-Mgxekwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=FF6B35)](https://github.com/Uwami-Mgxekwa)
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa)
 
