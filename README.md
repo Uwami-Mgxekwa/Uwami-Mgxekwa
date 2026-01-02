@@ -69,6 +69,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 </div>
 
+---
 
 <div align="center">
 
