@@ -69,17 +69,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 </div>
 
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uwami-Mgxekwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8)](https://github.com/Uwami-Mgxekwa)
-
-</div>
-
----
 
 <div align="center">
 
