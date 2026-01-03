@@ -79,10 +79,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ## 📰 Latest Tech News
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"><br><br>
-</div>
-
 <div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
 
 <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200" alt="Pebble’s round smartwatch is getting a reboot - The Verge" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
