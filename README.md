@@ -166,7 +166,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 </table>
 
 <p style="color: #FFD700; margin-top: 20px;">🕒 Last updated: 1/3/2026, 8:55:58 PM</p>
-<p style="color: #FFD700; font-size: 12px;">⚡ Powered by <a href="https://newsapi.org" target="_blank" style="color: #FFD700;">NewsAPI</a></p>
 
 </div>
 
