@@ -6,7 +6,21 @@ const NEWS_API_URL = `https://newsapi.org/v2/top-headlines?category=technology&c
 
 function fetchNews() {
   return new Promise((resolve, reject) => {
-    https.get(NEWS_API_URL, (res) => {
+    const url = new URL(NEWS_API_URL);
+    
+    const options = {
+      hostname: url.hostname,
+      port: 443,
+      path: url.pathname + url.search,
+      method: 'GET',
+      headers: {
+        'User-Agent': 'GitHub-README-Tech-News/1.0 (https://github.com/Uwami-Mgxekwa)',
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      }
+    };
+
+    const req = https.request(options, (res) => {
       let data = '';
       res.on('data', (chunk) => data += chunk);
       res.on('end', () => {
@@ -16,7 +30,10 @@ function fetchNews() {
           reject(error);
         }
       });
-    }).on('error', reject);
+    });
+
+    req.on('error', reject);
+    req.end();
   });
 }
 
@@ -25,26 +42,57 @@ function formatNewsForMarkdown(articles) {
     return '<p align="center">📰 No tech news available at the moment</p>';
   }
 
-  let newsHTML = '<div align="center">\n\n';
+  let newsHTML = '';
   
   articles.slice(0, 5).forEach((article, index) => {
-    const publishedDate = new Date(article.publishedAt).toLocaleDateString();
+    // Skip articles without title or description
+    if (!article.title || !article.description) return;
+    
+    const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    });
+    
     const title = article.title.length > 80 ? 
       article.title.substring(0, 80) + '...' : article.title;
     const description = article.description ? 
-      (article.description.length > 120 ? 
-        article.description.substring(0, 120) + '...' : article.description) 
+      (article.description.length > 150 ? 
+        article.description.substring(0, 150) + '...' : article.description) 
       : 'No description available';
 
-    newsHTML += `### 📰 [${title}](${article.url})\n`;
-    newsHTML += `${description}\n\n`;
-    newsHTML += `**📅 ${publishedDate}** | **📰 ${article.source.name}**\n\n`;
-    newsHTML += '---\n\n';
+    // Create a card-like structure
+    newsHTML += `<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">\n\n`;
+    
+    // Add image if available
+    if (article.urlToImage) {
+      newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">\n\n`;
+    }
+    
+    // Title
+    newsHTML += `### 📰 [${title}](${article.url})\n\n`;
+    
+    // Description
+    newsHTML += `<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">${description}</p>\n\n`;
+    
+    // Meta info
+    newsHTML += `<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">\n`;
+    newsHTML += `<span style="color: #FFD700;">📅 ${publishedDate}</span>\n`;
+    newsHTML += `<span style="color: #FFD700;">📰 ${article.source.name}</span>\n`;
+    newsHTML += `</div>\n\n`;
+    
+    newsHTML += `</div>\n\n`;
+    
+    // Add separator between articles (except for the last one)
+    if (index < Math.min(articles.length, 5) - 1) {
+      newsHTML += `---\n\n`;
+    }
   });
   
-  newsHTML += `*Last updated: ${new Date().toLocaleString()}*\n\n`;
-  newsHTML += '*Powered by [NewsAPI](https://newsapi.org)*\n\n';
-  newsHTML += '</div>';
+  newsHTML += `\n\n<div align="center">\n\n`;
+  newsHTML += `*Last updated: ${new Date().toLocaleString()}* 🕒\n\n`;
+  newsHTML += `*Powered by [NewsAPI](https://newsapi.org)* ⚡\n\n`;
+  newsHTML += `</div>`;
   
   return newsHTML;
 }
@@ -65,7 +113,7 @@ async function updateReadme() {
     
     // Replace the tech news section
     const startMarker = '## 📰 Latest Tech News';
-    const endMarker = '---\n\n## 🌐 Connect With Me';
+    const endMarker = '## 🌐 Connect With Me';
     
     const startIndex = readmeContent.indexOf(startMarker);
     const endIndex = readmeContent.indexOf(endMarker);
@@ -81,7 +129,7 @@ async function updateReadme() {
       '<div align="center">\n' +
       '  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"><br><br>\n' +
       '</div>\n\n' +
-      newsMarkdown + '\n\n' + afterNews;
+      newsMarkdown + '\n\n---\n\n' + afterNews;
     
     // Write updated README
     fs.writeFileSync('README.md', newReadmeContent);

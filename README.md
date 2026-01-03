@@ -83,18 +83,96 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"><br><br>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
 
-### 📰 [Loading latest tech news...](https://newsapi.org)
-Please wait while we fetch the latest technology headlines...
+<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200" alt="Pebble’s round smartwatch is getting a reboot - The Verge" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
 
-**📅 Initializing** | **📰 NewsAPI**
+### 📰 [Pebble’s round smartwatch is getting a reboot - The Verge](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
+
+<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">The new Pebble Round 2 improves upon the original Pebble Time Round with longer battery life and a larger 1.3-inch touchscreen display.</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+<span style="color: #FFD700;">📅 Jan 2, 2026</span>
+<span style="color: #FFD700;">📰 The Verge</span>
+</div>
+
+</div>
 
 ---
 
-*Last updated: Initializing...*
+<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
 
-*Powered by [NewsAPI](https://newsapi.org)*
+<img src="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" alt="See the new and improved Captain Titus with free datasheets for the Wardens of U..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
+
+### 📰 [See the new and improved Captain Titus with free datasheets for the Wardens of U...](https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar)
+
+<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">Check out the rules for Titus and his new command team.</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+<span style="color: #FFD700;">📅 Jan 2, 2026</span>
+<span style="color: #FFD700;">📰 Warhammer-community.com</span>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
+
+<img src="https://images.macrumors.com/t/xetihU7xHhC6b1RQc1jvG5dBEoo=/3840x/article-new/2026/01/Apple-Fitness-Plus-hero.jpg" alt="Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
+
+### 📰 [Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR...](https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/)
+
+<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">Apple today announced a number of updates to Apple Fitness+ and activity with the Apple Watch.   The key announcements include:   	New Year...</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+<span style="color: #FFD700;">📅 Jan 2, 2026</span>
+<span style="color: #FFD700;">📰 MacRumors</span>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
+
+<img src="https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-STEAM-HARDWARE-SURVEY.jpg" alt="AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
+
+### 📰 [AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com](https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey)
+
+<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">AMD Radeon RX 9070 now sits at 0.22% in Steam HW Survey After nearly a year since the first announcement, RDNA 4 GPUs have finally made their way into...</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+<span style="color: #FFD700;">📅 Jan 2, 2026</span>
+<span style="color: #FFD700;">📰 Videocardz.com</span>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
+
+<img src="https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
+
+### 📰 [AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga...](https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026)
+
+<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026, according to a report by Newsis.</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+<span style="color: #FFD700;">📅 Jan 2, 2026</span>
+<span style="color: #FFD700;">📰 Eurogamer.net</span>
+</div>
+
+</div>
+
+
+
+<div align="center">
+
+*Last updated: 1/3/2026, 8:14:12 PM* 🕒
+
+*Powered by [NewsAPI](https://newsapi.org)* ⚡
 
 </div>
 

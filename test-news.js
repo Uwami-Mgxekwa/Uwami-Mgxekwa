@@ -7,7 +7,21 @@ const NEWS_API_URL = `https://newsapi.org/v2/top-headlines?category=technology&c
 console.log('Testing NewsAPI connection...');
 console.log('API URL:', NEWS_API_URL.replace(NEWS_API_KEY, 'YOUR_API_KEY'));
 
-https.get(NEWS_API_URL, (res) => {
+const url = new URL(NEWS_API_URL);
+
+const options = {
+  hostname: url.hostname,
+  port: 443,
+  path: url.pathname + url.search,
+  method: 'GET',
+  headers: {
+    'User-Agent': 'GitHub-README-Tech-News/1.0 (https://github.com/Uwami-Mgxekwa)',
+    'Accept': 'application/json',
+    'Content-Type': 'application/json'
+  }
+};
+
+const req = https.request(options, (res) => {
   let data = '';
   res.on('data', (chunk) => data += chunk);
   res.on('end', () => {
@@ -32,6 +46,10 @@ https.get(NEWS_API_URL, (res) => {
       console.log('❌ JSON Parse Error:', error.message);
     }
   });
-}).on('error', (error) => {
+});
+
+req.on('error', (error) => {
   console.log('❌ Request Error:', error.message);
 });
+
+req.end();
