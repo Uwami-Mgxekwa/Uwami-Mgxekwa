@@ -42,7 +42,7 @@ function formatNewsForMarkdown(articles) {
     return '<p align="center">📰 No tech news available at the moment</p>';
   }
 
-  let newsHTML = '';
+  let newsHTML = '<div align="center">\n\n';
   
   articles.slice(0, 5).forEach((article, index) => {
     // Skip articles without title or description
@@ -61,27 +61,19 @@ function formatNewsForMarkdown(articles) {
         article.description.substring(0, 150) + '...' : article.description) 
       : 'No description available';
 
-    // Create a card-like structure
-    newsHTML += `<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">\n\n`;
-    
-    // Add image if available
+    // Add image if available (using simple img tag)
     if (article.urlToImage) {
-      newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">\n\n`;
+      newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="500">\n\n`;
     }
     
-    // Title
+    // Title as header
     newsHTML += `### 📰 [${title}](${article.url})\n\n`;
     
     // Description
-    newsHTML += `<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">${description}</p>\n\n`;
+    newsHTML += `${description}\n\n`;
     
     // Meta info
-    newsHTML += `<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">\n`;
-    newsHTML += `<span style="color: #FFD700;">📅 ${publishedDate}</span>\n`;
-    newsHTML += `<span style="color: #FFD700;">📰 ${article.source.name}</span>\n`;
-    newsHTML += `</div>\n\n`;
-    
-    newsHTML += `</div>\n\n`;
+    newsHTML += `**📅 ${publishedDate}** | **📰 ${article.source.name}**\n\n`;
     
     // Add separator between articles (except for the last one)
     if (index < Math.min(articles.length, 5) - 1) {
@@ -89,8 +81,7 @@ function formatNewsForMarkdown(articles) {
     }
   });
   
-  newsHTML += `\n\n<div align="center">\n\n`;
-  newsHTML += `*Last updated: ${new Date().toLocaleString()}* 🕒\n\n`;
+  newsHTML += `\n\n*Last updated: ${new Date().toLocaleString()}* 🕒\n\n`;
   newsHTML += `*Powered by [NewsAPI](https://newsapi.org)* ⚡\n\n`;
   newsHTML += `</div>`;
   
