@@ -42,83 +42,72 @@ function formatNewsForMarkdown(articles) {
     return '<p align="center">📰 No tech news available at the moment</p>';
   }
 
-  let newsHTML = '';
+  let newsHTML = '<div align="center">\n\n';
   
-  // Filter articles with images and valid content
+  // Filter articles with images and valid content, limit to 4
   const validArticles = articles.filter(article => 
     article.title && 
     article.description && 
     article.urlToImage &&
     !article.urlToImage.includes('removed.png')
-  ).slice(0, 6);
+  ).slice(0, 4);
   
-  // Create rows of 3 cards each
-  for (let i = 0; i < validArticles.length; i += 3) {
-    const rowArticles = validArticles.slice(i, i + 3);
-    
-    newsHTML += '<table width="100%">\n<tr>\n';
-    
-    rowArticles.forEach((article) => {
-      const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
-        month: 'short',
-        day: 'numeric',
-        year: 'numeric'
-      });
-      
-      const title = article.title.length > 80 ? 
-        article.title.substring(0, 80) + '...' : article.title;
-      const description = article.description.length > 100 ? 
-        article.description.substring(0, 100) + '...' : article.description;
-
-      newsHTML += '<td width="33%" valign="top">\n';
-      newsHTML += '<div>\n';
-      
-      // Card container
-      newsHTML += `<a href="${article.url}" target="_blank">\n`;
-      newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="100%" height="180" style="border-radius: 8px 8px 0 0; object-fit: cover;">\n`;
-      newsHTML += `</a>\n`;
-      
-      // Content section with dark background
-      newsHTML += '<div style="background-color: #0d1117; border-radius: 0 0 8px 8px; padding: 16px; min-height: 200px;">\n';
-      
-      // Source badge
-      newsHTML += `<p style="margin: 0 0 8px 0;"><span style="background-color: #1f6feb; color: white; padding: 4px 8px; border-radius: 4px; font-size: 11px;">${article.source.name}</span></p>\n`;
-      
-      // Date
-      newsHTML += `<p style="color: #7d8590; font-size: 12px; margin: 0 0 8px 0;">📅 ${publishedDate}</p>\n`;
-      
-      // Title
-      newsHTML += `<h3 style="margin: 0 0 12px 0; font-size: 16px; line-height: 1.4;">\n`;
-      newsHTML += `<a href="${article.url}" target="_blank" style="color: #c9d1d9; text-decoration: none;">${title}</a>\n`;
-      newsHTML += `</h3>\n`;
-      
-      // Description
-      newsHTML += `<p style="color: #8b949e; font-size: 13px; line-height: 1.5; margin: 0 0 12px 0;">${description}</p>\n`;
-      
-      // Read more link
-      newsHTML += `<p style="margin: 0;"><a href="${article.url}" target="_blank" style="color: #58a6ff; text-decoration: none; font-size: 13px;">Read Full Article →</a></p>\n`;
-      
-      newsHTML += '</div>\n'; // Close content div
-      newsHTML += '</div>\n'; // Close card div
-      newsHTML += '</td>\n';
+  validArticles.forEach((article) => {
+    const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
     });
     
-    // Fill empty cells if row has less than 3 articles
-    const emptyCells = 3 - rowArticles.length;
-    for (let j = 0; j < emptyCells; j++) {
-      newsHTML += '<td width="33%"></td>\n';
-    }
+    // Fixed length for consistent sizing
+    const title = article.title.length > 60 ? 
+      article.title.substring(0, 60) + '...' : article.title;
+    const description = article.description.length > 100 ? 
+      article.description.substring(0, 100) + '...' : article.description;
+
+    // Uniform card structure with fixed dimensions
+    newsHTML += `<table width="100%" style="margin-bottom: 25px; border: 2px solid #FFD700; border-radius: 10px; table-layout: fixed;">\n`;
+    newsHTML += `<tr>\n`;
+    newsHTML += `<td align="center" style="padding: 0; height: 200px; overflow: hidden;">\n`;
     
-    newsHTML += '</tr>\n</table>\n\n';
+    // Fixed height image container
+    newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="100%" height="200" style="display: block; object-fit: cover;">\n`;
     
-    // Add spacing between rows
-    if (i + 3 < validArticles.length) {
-      newsHTML += '<br>\n\n';
-    }
-  }
+    newsHTML += `</td>\n`;
+    newsHTML += `</tr>\n`;
+    newsHTML += `<tr>\n`;
+    newsHTML += `<td style="padding: 20px; background-color: #1a1a1a; height: 180px; vertical-align: top;">\n`;
+    
+    // Content with fixed container height
+    newsHTML += `<div style="height: 100%; display: flex; flex-direction: column; justify-content: space-between;">\n`;
+    
+    // Title section
+    newsHTML += `<div>\n`;
+    newsHTML += `<h3 style="color: #FFD700; margin: 0 0 10px 0; font-size: 16px; line-height: 1.2; height: 40px; overflow: hidden;">\n`;
+    newsHTML += `<a href="${article.url}" target="_blank" style="color: #FFD700; text-decoration: none;">📰 ${title}</a>\n`;
+    newsHTML += `</h3>\n`;
+    
+    // Description section with fixed height
+    newsHTML += `<p style="color: #ffffff; margin: 0; font-size: 14px; line-height: 1.4; height: 80px; overflow: hidden;">${description}</p>\n`;
+    newsHTML += `</div>\n`;
+    
+    // Meta info at bottom
+    newsHTML += `<div style="margin-top: auto; padding-top: 10px;">\n`;
+    newsHTML += `<small style="color: #FFD700;">📅 ${publishedDate}</small>\n`;
+    newsHTML += `<small style="color: #FFD700; margin-left: 15px;">📰 ${article.source.name}</small>\n`;
+    newsHTML += `</div>\n`;
+    
+    newsHTML += `</div>\n`; // Close flex container
+    newsHTML += `</td>\n`;
+    newsHTML += `</tr>\n`;
+    newsHTML += `</table>\n\n`;
+  });
   
   // Footer
-  newsHTML += `<p align="center" style="color: #7d8590; margin-top: 20px; font-size: 12px;">🕒 Last updated: ${new Date().toLocaleString()}</p>\n`;
+  newsHTML += `<p style="color: #FFD700; margin-top: 20px;">🕒 Last updated: ${new Date().toLocaleString()}</p>\n`;
+  newsHTML += `<p style="color: #FFD700; font-size: 12px;">⚡ Powered by <a href="https://newsapi.org" target="_blank" style="color: #FFD700;">NewsAPI</a></p>\n\n`;
+  
+  newsHTML += '</div>';
   
   return newsHTML;
 }
