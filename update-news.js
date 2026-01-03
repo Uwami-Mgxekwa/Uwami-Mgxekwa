@@ -44,69 +44,58 @@ function formatNewsForMarkdown(articles) {
 
   let newsHTML = '<div align="center">\n\n';
   
-  // Create responsive grid container
-  newsHTML += '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; padding: 20px;">\n\n';
+  // Filter articles with images and valid content, limit to 4
+  const validArticles = articles.filter(article => 
+    article.title && 
+    article.description && 
+    article.urlToImage
+  ).slice(0, 4);
   
-  articles.slice(0, 6).forEach((article, index) => {
-    // Skip articles without title or description
-    if (!article.title || !article.description) return;
-    
+  validArticles.forEach((article, index) => {
     const publishedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'short',
       day: 'numeric'
     });
     
-    const title = article.title.length > 60 ? 
-      article.title.substring(0, 60) + '...' : article.title;
-    const description = article.description ? 
-      (article.description.length > 100 ? 
-        article.description.substring(0, 100) + '...' : article.description) 
-      : 'No description available';
+    const title = article.title.length > 70 ? 
+      article.title.substring(0, 70) + '...' : article.title;
+    const description = article.description.length > 120 ? 
+      article.description.substring(0, 120) + '...' : article.description;
 
-    // Create card
-    newsHTML += '<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">\n\n';
+    // Simple card structure that GitHub can handle
+    newsHTML += `<table width="100%" style="margin-bottom: 30px; border: 2px solid #FFD700; border-radius: 10px;">\n`;
+    newsHTML += `<tr>\n`;
+    newsHTML += `<td align="center" style="padding: 0;">\n`;
     
-    // Image container
-    if (article.urlToImage) {
-      newsHTML += `<div style="position: relative; height: 200px; overflow: hidden;">\n`;
-      newsHTML += `<img src="${article.urlToImage}" alt="${title}" style="width: 100%; height: 100%; object-fit: cover;">\n`;
-      newsHTML += `<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">${article.source.name}</div>\n`;
-      newsHTML += `</div>\n\n`;
-    }
+    // Image
+    newsHTML += `<img src="${article.urlToImage}" alt="${title}" width="100%" height="200" style="display: block;">\n`;
     
-    // Content container
-    newsHTML += '<div style="padding: 20px;">\n\n';
+    newsHTML += `</td>\n`;
+    newsHTML += `</tr>\n`;
+    newsHTML += `<tr>\n`;
+    newsHTML += `<td style="padding: 20px; background-color: #1a1a1a;">\n`;
     
-    // Date
-    newsHTML += `<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">\n`;
-    newsHTML += `<span style="margin-right: 5px;">📅</span> ${publishedDate}\n`;
-    newsHTML += `</div>\n\n`;
+    // Content
+    newsHTML += `<h3 style="color: #FFD700; margin: 0 0 10px 0;">\n`;
+    newsHTML += `<a href="${article.url}" target="_blank" style="color: #FFD700; text-decoration: none;">📰 ${title}</a>\n`;
+    newsHTML += `</h3>\n`;
     
-    // Title
-    newsHTML += `<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">\n`;
-    newsHTML += `<a href="${article.url}" target="_blank" style="color: #ffffff; text-decoration: none;">${title}</a>\n`;
-    newsHTML += `</h3>\n\n`;
+    newsHTML += `<p style="color: #ffffff; margin: 10px 0; font-size: 14px;">${description}</p>\n`;
     
-    // Description
-    newsHTML += `<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">${description}</p>\n\n`;
+    newsHTML += `<div style="margin-top: 15px;">\n`;
+    newsHTML += `<small style="color: #FFD700;">📅 ${publishedDate}</small>\n`;
+    newsHTML += `<small style="color: #FFD700; margin-left: 20px;">📰 ${article.source.name}</small>\n`;
+    newsHTML += `</div>\n`;
     
-    // Read more link
-    newsHTML += `<a href="${article.url}" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">\n`;
-    newsHTML += `Read Full Article <span style="margin-left: 5px;">→</span>\n`;
-    newsHTML += `</a>\n\n`;
-    
-    newsHTML += '</div>\n\n'; // Close content container
-    newsHTML += '</div>\n\n'; // Close card
+    newsHTML += `</td>\n`;
+    newsHTML += `</tr>\n`;
+    newsHTML += `</table>\n\n`;
   });
   
-  newsHTML += '</div>\n\n'; // Close grid container
-  
-  // Footer info
-  newsHTML += `<div style="margin-top: 30px; padding: 20px; background: rgba(255,215,0,0.1); border-radius: 10px; border: 1px solid #FFD700;">\n`;
-  newsHTML += `<p style="color: #FFD700; margin: 0; font-size: 14px;">🕒 Last updated: ${new Date().toLocaleString()}</p>\n`;
-  newsHTML += `<p style="color: #FFD700; margin: 5px 0 0 0; font-size: 12px;">⚡ Powered by <a href="https://newsapi.org" target="_blank" style="color: #FFD700;">NewsAPI</a></p>\n`;
-  newsHTML += `</div>\n\n`;
+  // Footer
+  newsHTML += `<p style="color: #FFD700; margin-top: 20px;">🕒 Last updated: ${new Date().toLocaleString()}</p>\n`;
+  newsHTML += `<p style="color: #FFD700; font-size: 12px;">⚡ Powered by <a href="https://newsapi.org" target="_blank" style="color: #FFD700;">NewsAPI</a></p>\n\n`;
   
   newsHTML += '</div>';
   

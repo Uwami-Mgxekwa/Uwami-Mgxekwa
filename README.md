@@ -85,7 +85,61 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 <div align="center">
 
+<<<<<<< HEAD
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; padding: 20px;">
+=======
+<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200" alt="Pebble’s round smartwatch is getting a reboot - The Verge" width="500">
+
+### 📰 [Pebble’s round smartwatch is getting a reboot - The Verge](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
+
+The new Pebble Round 2 improves upon the original Pebble Time Round with longer battery life and a larger 1.3-inch touchscreen display.
+
+**📅 Jan 2, 2026** | **📰 The Verge**
+
+---
+
+<img src="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" alt="See the new and improved Captain Titus with free datasheets for the Wardens of U..." width="500">
+
+### 📰 [See the new and improved Captain Titus with free datasheets for the Wardens of U...](https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar)
+
+Check out the rules for Titus and his new command team.
+
+**📅 Jan 2, 2026** | **📰 Warhammer-community.com**
+
+---
+
+<img src="https://images.macrumors.com/t/xetihU7xHhC6b1RQc1jvG5dBEoo=/3840x/article-new/2026/01/Apple-Fitness-Plus-hero.jpg" alt="Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR..." width="500">
+
+### 📰 [Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR...](https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/)
+
+Apple today announced a number of updates to Apple Fitness+ and activity with the Apple Watch.   The key announcements include:   	New Year...
+
+**📅 Jan 2, 2026** | **📰 MacRumors**
+
+---
+
+<img src="https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-STEAM-HARDWARE-SURVEY.jpg" alt="AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com" width="500">
+
+### 📰 [AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com](https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey)
+
+AMD Radeon RX 9070 now sits at 0.22% in Steam HW Survey After nearly a year since the first announcement, RDNA 4 GPUs have finally made their way into...
+
+**📅 Jan 2, 2026** | **📰 Videocardz.com**
+
+---
+
+<img src="https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga..." width="500">
+
+### 📰 [AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga...](https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026)
+
+AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026, according to a report by Newsis.
+
+**📅 Jan 2, 2026** | **📰 Eurogamer.net**
+
+
+
+*Last updated: 1/3/2026, 6:24:23 PM* 🕒
+>>>>>>> a068f7f2429b3b13a9be6752d4d496aca04f3e00
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
 
