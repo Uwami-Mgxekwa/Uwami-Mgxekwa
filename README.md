@@ -79,96 +79,155 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ## 📰 Latest Tech News
 
-<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
-
-<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200" alt="Pebble’s round smartwatch is getting a reboot - The Verge" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
-
-### 📰 [Pebble’s round smartwatch is getting a reboot - The Verge](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
-
-<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">The new Pebble Round 2 improves upon the original Pebble Time Round with longer battery life and a larger 1.3-inch touchscreen display.</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<span style="color: #FFD700;">📅 Jan 2, 2026</span>
-<span style="color: #FFD700;">📰 The Verge</span>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"><br><br>
 </div>
-
-</div>
-
----
-
-<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
-
-<img src="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" alt="See the new and improved Captain Titus with free datasheets for the Wardens of U..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
-
-### 📰 [See the new and improved Captain Titus with free datasheets for the Wardens of U...](https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar)
-
-<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">Check out the rules for Titus and his new command team.</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<span style="color: #FFD700;">📅 Jan 2, 2026</span>
-<span style="color: #FFD700;">📰 Warhammer-community.com</span>
-</div>
-
-</div>
-
----
-
-<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
-
-<img src="https://images.macrumors.com/t/xetihU7xHhC6b1RQc1jvG5dBEoo=/3840x/article-new/2026/01/Apple-Fitness-Plus-hero.jpg" alt="Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
-
-### 📰 [Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacR...](https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/)
-
-<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">Apple today announced a number of updates to Apple Fitness+ and activity with the Apple Watch.   The key announcements include:   	New Year...</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<span style="color: #FFD700;">📅 Jan 2, 2026</span>
-<span style="color: #FFD700;">📰 MacRumors</span>
-</div>
-
-</div>
-
----
-
-<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
-
-<img src="https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-STEAM-HARDWARE-SURVEY.jpg" alt="AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com" width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
-
-### 📰 [AMD Radeon RX 9070 finally shows up in Steam’s Hardware Survey - VideoCardz.com](https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey)
-
-<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">AMD Radeon RX 9070 now sits at 0.22% in Steam HW Survey After nearly a year since the first announcement, RDNA 4 GPUs have finally made their way into...</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<span style="color: #FFD700;">📅 Jan 2, 2026</span>
-<span style="color: #FFD700;">📰 Videocardz.com</span>
-</div>
-
-</div>
-
----
-
-<div align="center" style="margin: 20px 0; padding: 20px; border: 2px solid #FFD700; border-radius: 10px; background: linear-gradient(135deg, rgba(255,215,0,0.1), rgba(255,215,0,0.05));">
-
-<img src="https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga..." width="400" height="200" style="border-radius: 8px; margin-bottom: 15px; object-fit: cover;">
-
-### 📰 [AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026 - Euroga...](https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026)
-
-<p style="color: #ffffff; font-size: 16px; line-height: 1.6; margin: 15px 0;">AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026, according to a report by Newsis.</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<span style="color: #FFD700;">📅 Jan 2, 2026</span>
-<span style="color: #FFD700;">📰 Eurogamer.net</span>
-</div>
-
-</div>
-
-
 
 <div align="center">
 
-*Last updated: 1/3/2026, 8:14:12 PM* 🕒
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; padding: 20px;">
 
-*Powered by [NewsAPI](https://newsapi.org)* ⚡
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
+
+<div style="position: relative; height: 200px; overflow: hidden;">
+<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200" alt="Pebble’s round smartwatch is getting a reboot - The Verge" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">The Verge</div>
+</div>
+
+<div style="padding: 20px;">
+
+<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">
+<span style="margin-right: 5px;">📅</span> Jan 2, 2026
+</div>
+
+<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">
+<a href="https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability" target="_blank" style="color: #ffffff; text-decoration: none;">Pebble’s round smartwatch is getting a reboot - The Verge</a>
+</h3>
+
+<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">The new Pebble Round 2 improves upon the original Pebble Time Round with longer battery life and a l...</p>
+
+<a href="https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">
+Read Full Article <span style="margin-left: 5px;">→</span>
+</a>
+
+</div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
+
+<div style="position: relative; height: 200px; overflow: hidden;">
+<img src="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" alt="See the new and improved Captain Titus with free datasheets ..." style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">Warhammer-community.com</div>
+</div>
+
+<div style="padding: 20px;">
+
+<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">
+<span style="margin-right: 5px;">📅</span> Jan 2, 2026
+</div>
+
+<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">
+<a href="https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar" target="_blank" style="color: #ffffff; text-decoration: none;">See the new and improved Captain Titus with free datasheets ...</a>
+</h3>
+
+<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">Check out the rules for Titus and his new command team.</p>
+
+<a href="https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">
+Read Full Article <span style="margin-left: 5px;">→</span>
+</a>
+
+</div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
+
+<div style="position: relative; height: 200px; overflow: hidden;">
+<img src="https://images.macrumors.com/t/xetihU7xHhC6b1RQc1jvG5dBEoo=/3840x/article-new/2026/01/Apple-Fitness-Plus-hero.jpg" alt="Apple Announces New Fitness+ Workout Programs, Strava Challe..." style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">MacRumors</div>
+</div>
+
+<div style="padding: 20px;">
+
+<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">
+<span style="margin-right: 5px;">📅</span> Jan 2, 2026
+</div>
+
+<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">
+<a href="https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/" target="_blank" style="color: #ffffff; text-decoration: none;">Apple Announces New Fitness+ Workout Programs, Strava Challe...</a>
+</h3>
+
+<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">Apple today announced a number of updates to Apple Fitness+ and activity with the Apple Watch.   The...</p>
+
+<a href="https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">
+Read Full Article <span style="margin-left: 5px;">→</span>
+</a>
+
+</div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
+
+<div style="position: relative; height: 200px; overflow: hidden;">
+<img src="https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-STEAM-HARDWARE-SURVEY.jpg" alt="AMD Radeon RX 9070 finally shows up in Steam’s Hardware Surv..." style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">Videocardz.com</div>
+</div>
+
+<div style="padding: 20px;">
+
+<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">
+<span style="margin-right: 5px;">📅</span> Jan 2, 2026
+</div>
+
+<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">
+<a href="https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey" target="_blank" style="color: #ffffff; text-decoration: none;">AMD Radeon RX 9070 finally shows up in Steam’s Hardware Surv...</a>
+</h3>
+
+<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">AMD Radeon RX 9070 now sits at 0.22% in Steam HW Survey After nearly a year since the first announce...</p>
+
+<a href="https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">
+Read Full Article <span style="margin-left: 5px;">→</span>
+</a>
+
+</div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 1px solid #333;">
+
+<div style="position: relative; height: 200px; overflow: hidden;">
+<img src="https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="AMD and Nvidia will reportedly raise GPU prices "significant..." style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #FFD700; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-weight: bold;">Eurogamer.net</div>
+</div>
+
+<div style="padding: 20px;">
+
+<div style="color: #FFD700; font-size: 12px; margin-bottom: 10px; display: flex; align-items: center;">
+<span style="margin-right: 5px;">📅</span> Jan 2, 2026
+</div>
+
+<h3 style="color: #ffffff; margin: 0 0 15px 0; font-size: 18px; line-height: 1.3;">
+<a href="https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026" target="_blank" style="color: #ffffff; text-decoration: none;">AMD and Nvidia will reportedly raise GPU prices "significant...</a>
+</h3>
+
+<p style="color: #cccccc; margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">AMD and Nvidia will reportedly raise GPU prices "significantly" in 2026, according to a report by Ne...</p>
+
+<a href="https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026" target="_blank" style="color: #FFD700; text-decoration: none; font-size: 14px; font-weight: bold; display: inline-flex; align-items: center;">
+Read Full Article <span style="margin-left: 5px;">→</span>
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="margin-top: 30px; padding: 20px; background: rgba(255,215,0,0.1); border-radius: 10px; border: 1px solid #FFD700;">
+<p style="color: #FFD700; margin: 0; font-size: 14px;">🕒 Last updated: 1/3/2026, 8:27:45 PM</p>
+<p style="color: #FFD700; margin: 5px 0 0 0; font-size: 12px;">⚡ Powered by <a href="https://newsapi.org" target="_blank" style="color: #FFD700;">NewsAPI</a></p>
+</div>
 
 </div>
 
