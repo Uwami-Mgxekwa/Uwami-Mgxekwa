@@ -85,81 +85,16 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 <div align="center">
 
-### 🚀 Stay Updated with Tech Trends
+### 📰 [Loading latest tech news...](https://newsapi.org)
+Please wait while we fetch the latest technology headlines...
 
-> **Note**: For dynamic tech news integration, use the following JavaScript code in your web projects:
+**📅 Initializing** | **📰 NewsAPI**
 
-```javascript
-// Tech News API Configuration
-const NEWS_API_KEY = '9d147cd7390443e281284123aa6160df';
-const NEWS_API_URL = 'https://newsapi.org/v2/top-headlines';
-const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+---
 
-// Function to fetch latest tech news
-async function fetchTechNews() {
-  try {
-    const params = new URLSearchParams({
-      category: 'technology',
-      country: 'us',
-      pageSize: 5,
-      apiKey: NEWS_API_KEY
-    });
-    
-    const proxyUrl = `${CORS_PROXY}${encodeURIComponent(`${NEWS_API_URL}?${params}`)}`;
-    const response = await fetch(proxyUrl);
-    
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-    
-    const data = await response.json();
-    displayNews(data.articles);
-  } catch (error) {
-    console.error('Error fetching tech news:', error);
-    document.getElementById('tech-news').innerHTML = 
-      '<p>❌ Unable to load tech news at the moment</p>';
-  }
-}
+*Last updated: Initializing...*
 
-// Function to display news articles
-function displayNews(articles) {
-  const newsContainer = document.getElementById('tech-news');
-  
-  if (!articles || articles.length === 0) {
-    newsContainer.innerHTML = '<p>📰 No tech news available</p>';
-    return;
-  }
-  
-  let newsHTML = '';
-  articles.slice(0, 5).forEach((article) => {
-    const publishedDate = new Date(article.publishedAt).toLocaleDateString();
-    const title = article.title.length > 80 ? 
-      article.title.substring(0, 80) + '...' : article.title;
-    
-    newsHTML += `
-      <div class="news-item">
-        <h4><a href="${article.url}" target="_blank">📰 ${title}</a></h4>
-        <p>${article.description || 'No description available'}</p>
-        <small>📅 ${publishedDate} | 📰 ${article.source.name}</small>
-      </div>
-    `;
-  });
-  
-  newsContainer.innerHTML = newsHTML;
-}
-
-// Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', fetchTechNews);
-```
-
-**Features:**
-- 📡 Fetches latest technology headlines from NewsAPI
-- 🌐 Uses CORS proxy for cross-origin requests
-- 📱 Responsive design with clean formatting
-- ⚡ Error handling for failed API calls
-- 🎨 Customizable styling and layout
-
-**Usage:** Copy this code into your HTML/JavaScript projects to display live tech news!
+*Powered by [NewsAPI](https://newsapi.org)*
 
 </div>
 
