@@ -18,8 +18,6 @@
 
 I'm a passionate Java Developer with a love for UI Design. I enjoy building robust applications with clean, efficient code while creating beautiful and intuitive user interfaces. Currently expanding my skills into modern web frameworks!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 ---
 
 ## 🛠️ Tech Stack & Skills
