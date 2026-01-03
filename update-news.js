@@ -139,19 +139,26 @@ async function updateReadme() {
     
     // Replace the tech news section
     const startMarker = '## 📰 Latest Tech News';
-    const endMarker = '---\n\n## � Connect With Me';
+    const endMarker = '## 🌐 Connect With Me';
     
     const startIndex = readmeContent.indexOf(startMarker);
     const endIndex = readmeContent.indexOf(endMarker);
     
     if (startIndex === -1 || endIndex === -1) {
+      console.log('Debug: startIndex =', startIndex, 'endIndex =', endIndex);
+      console.log('Looking for startMarker:', startMarker);
+      console.log('Looking for endMarker:', endMarker);
       throw new Error('Could not find tech news section markers in README');
     }
     
     const beforeNews = readmeContent.substring(0, startIndex);
     const afterNews = readmeContent.substring(endIndex);
     
-    const newReadmeContent = beforeNews + startMarker + '\n\n' + newsMarkdown + '\n\n' + afterNews;
+    const newReadmeContent = beforeNews + startMarker + '\n\n' + 
+      '<div align="center">\n' +
+      '  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"><br><br>\n' +
+      '</div>\n\n' +
+      newsMarkdown + '\n\n---\n\n' + afterNews;
     
     // Write updated README
     fs.writeFileSync('README.md', newReadmeContent);
