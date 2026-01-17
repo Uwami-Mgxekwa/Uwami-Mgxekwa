@@ -114,9 +114,3 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
   ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=FFD700&style=for-the-badge)
   
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFD700&animation=twinkling" width="100%"/>
-</div>
