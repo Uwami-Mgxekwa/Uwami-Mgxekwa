@@ -85,6 +85,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=FFD700&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=BLACK&style=for-the-badge)
   
 </div>
