@@ -80,12 +80,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
   
 </div>
 
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uwami-Mgxekwa&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFD700&line=FFD700&point=ffffff)](https://github.com/Uwami-Mgxekwa)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
