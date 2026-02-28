@@ -85,8 +85,6 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=FFD700&style=for-the-badge)
   
 </div>
