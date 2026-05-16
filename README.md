@@ -75,7 +75,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uwami-Mgxekwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwamimcdonald@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/3SDVFUTLNLO6P1)
-[![Portfolio_v2](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://uwami-mgxekwa.github.io/uwami_v2/)
+[![Portfolio_v2](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://uwamimgxekwa.com)
 
 
 </div>
