@@ -6,13 +6,13 @@
 <br/>
 
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate Java Developer with a love for UI Design. I enjoy building robust applications with clean, efficient code while creating beautiful and intuitive user interfaces. Currently expanding my skills into modern web frameworks!
+Java Developer with a love for UI Design. I enjoy building robust applications with clean, efficient code while creating beautiful and intuitive user interfaces. Currently expanding my skills into modern web frameworks!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm a passionate Java Developer with a love for UI Design. I enjoy building robu
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
