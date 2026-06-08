@@ -71,11 +71,3 @@ Java Developer with a love for UI Design. I enjoy building robust applications w
 
 
 </div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Uwami-Mgxekwa&color=B8860B&style=for-the-badge)
-  
-</div>
