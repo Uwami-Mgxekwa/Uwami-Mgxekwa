@@ -10,6 +10,8 @@
 
 <p>Java Developer with a love for UI Design. I enjoy building applications and also creating beautiful and intuitive user interfaces. </p>
 
+---
+
 ## Tech Stack & Skills
 
 <div align="center">
