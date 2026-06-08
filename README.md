@@ -8,7 +8,7 @@
 
 ## About Me
 
-<p>Java Developer with a love for UI Design. I enjoy building applications and also creating beautiful and intuitive user interfaces. </p>
+<p>Java Developer with a love for UI Design. I enjoy building applications and creating beautiful, intuitive interfaces. </p>
 
 ---
 
