@@ -40,17 +40,6 @@
 
 </div>
 
----
-
-## CodersRank Profile
-
-<div align="center">
-
-[![CodersRank Badge](https://profile.codersrank.io/api/badge/Uwami-Mgxekwa)](https://profile.codersrank.io/user/Uwami-Mgxekwa)
-
-</div>
-
----
 
 ## Ranking on committers.top
 
