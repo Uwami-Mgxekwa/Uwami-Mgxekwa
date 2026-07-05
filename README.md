@@ -45,11 +45,11 @@
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/south_africa_public/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa_public/Uwami-Mgxekwa)
-
 [![committers.top badge](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa)
 
 [![committers.top badge](https://user-badge.committers.top/south_africa_private/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa_private/Uwami-Mgxekwa)
+
+[![committers.top badge](https://user-badge.committers.top/south_africa_public/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa_public/Uwami-Mgxekwa)
 
 </div>
 
