@@ -4,12 +4,6 @@
 
 <br/>
 
-## About Me
-
-<p>Java Developer with a love for UI Design. I enjoy building applications and creating beautiful, intuitive interfaces. </p>
-
----
-
 ## Tech Stack & Skills
 
 <div align="center">
