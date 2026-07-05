@@ -2,9 +2,7 @@
   <img src="./hero-banner.svg" alt="Hero Banner" width="100%"/>
 </div>
 
-
 <br/>
-
 
 ## About Me
 
@@ -44,6 +42,16 @@
 
 ---
 
+## CodersRank Profile
+
+<div align="center">
+
+[![CodersRank Badge](https://profile.codersrank.io/api/badge/Uwami-Mgxekwa)](https://profile.codersrank.io/user/Uwami-Mgxekwa)
+
+</div>
+
+---
+
 ## Ranking on committers.top
 
 <div align="center">
@@ -53,7 +61,6 @@
 [![committers.top badge](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa/Uwami-Mgxekwa)
 
 [![committers.top badge](https://user-badge.committers.top/south_africa_private/Uwami-Mgxekwa.svg)](https://user-badge.committers.top/south_africa_private/Uwami-Mgxekwa)
-
 
 </div>
 
@@ -68,6 +75,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwamimcdonald@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/3SDVFUTLNLO6P1)
 [![Portfolio_v2](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://uwamimgxekwa.com)
-
 
 </div>
