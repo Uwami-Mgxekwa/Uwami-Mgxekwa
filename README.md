@@ -65,9 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Uwami-Mgxekwa" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" />
-</a>
 &nbsp;&nbsp;
 <a href="mailto:uwamimcdonald@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40" />
